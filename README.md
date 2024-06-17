@@ -1,1 +1,1 @@
-# mexihc24ws
+# Responsible AI in HCI Education
