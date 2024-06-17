@@ -11,7 +11,7 @@ Join us for the 1st Responsible AI in HCI Education workshop - this year at **<a
 <ul>- <b>Notification:</b> August 23rd, 2024</ul>
 <ul>- <b>Camera-ready submission:</b> September 13th, 2024</ul>
 <ul>- <b>Proposals should be submitted to:</b> <a href="responsibleai.hciedu@gmail.com">responsibleai.hciedu@gmail.com</a></ul>
-<ul>- <b>Submission template:</b> <a href="https://mexihc.org/aihc_template.zip">AmexIHC Template</a> (2-4 pages including references - Anonymous submissions)</ul>
+<ul>- <b>Submission template:</b> <a href="https://mexihc.org/aihc_template.zip">AmexIHC Template</a> (2-4 pages including references)</ul>
 
 We propose this workshop at the MexIHC 2024 to convene academic and industry professionals interested in exchanging viewpoints and approaches on how Artificial Intelligence (AI), or more specifically, Generative Artificial Intelligence can be accounted for in responsible yet productive ways when designing courses and lessons in the multidisciplinary field of Human-Computer Interaction. At the workshop, we will discuss the participants’ experiences and perspectives, and also will conduct a practical activity to codesign HCI lessons while keeping responsible AI in mind. Ultimately, we aim to facilitate the development of a new community around the topic of Responsible AI in HCI Education.
 
