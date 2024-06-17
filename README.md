@@ -1,3 +1,5 @@
+<img src="logo_aihumancollab.png" alt="Logo represented by five persons' heads, one being AI">
+
 # Responsible AI in HCI Education
 
 ## Outline<br> 
