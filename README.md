@@ -1,4 +1,4 @@
-<img src="logo_aihumancollab.png" alt="Logo represented by five persons' heads, one being AI">
+<img src="AIinHCI_ChatGPT4o.png" alt="AI created image presenting a scenario with human-AI and human-human collaboration">
 
 # Responsible AI in HCI Education
 
