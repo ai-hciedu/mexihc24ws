@@ -3,7 +3,7 @@
 # Responsible AI in HCI Education
 
 ## Outline<br> 
-Join us for the 1st Responsible AI in HCI Education workshop - this year at **<a href="https://www.mexihc.org/2024/en">10th Mexican International Conference on Human-Computer Interaction (MexIHC 2024)</a>**. 
+Join us for the 1st Responsible AI in HCI Education workshop this year at **<a href="https://www.mexihc.org/2024/en">10th Mexican International Conference on Human-Computer Interaction (MexIHC 2024)</a>**: 
 
 <ul>- <b>Venue:</b> In-person (Saltillo, Coahuila, Mexico)</ul>
 <ul>- <b>Conference dates:</b> November 6-8th, 2024</ul>
