@@ -1,4 +1,4 @@
-<img src="AIinHCI_ChatGPT4o.png" alt="AI created image presenting a scenario with human-AI and human-human collaboration" width="300" height="400">
+<img src="AIinHCI_ChatGPT4o.png" alt="AI created image presenting a scenario with human-AI and human-human collaboration" width="400" height="400">
 
 # Responsible AI in HCI Education
 
