@@ -62,6 +62,7 @@ By interested parties we mean researchers, scholars and students of different ed
 ## Organizers<br> 
 <b>Soraia S. Prietch</b> is a research professor at the Federal University of Rondonópolis (UFR) in Brazil, since 2004. She obtained a first doctoral degree, in Digital Systems, from University of São Paulo (USP, 2014). Currently, she is pursuing a second PhD at the Benemérita Universidad Autónoma de Puebla (BUAP), Mexico, conducting research on ethical awareness in responsible AI issues. Also, she is the current chair of the Latin America HCI Community (LAIHC 2023-2025) along with some awesome colleagues.<br><br>
 <b>Laura Sanely Gaytán Lugo</b> is a research professor at the Universidad de Colima in Mexico. She focuses on HCI. She is a member of the National System of Researchers in Mexico and the Mexican Academy of Computing. She is a member of the SIGCHI Latin America Committee (SLAC), and of the Mexican Association on Human-Computer Interaction (AMexIHC).<br><br>
-<b>José Antonio García Macías</b><br><br>
+<b>José Antonio García Macías</b> is a research professor at CICESE research center in Ensenada, Mexico. He  is a member of the National System of Researchers in Mexico and of the Mexican Academy of Computing. His current research interests are in ubiquitous computing and networking applied to solving issues of disadvantaged populations (e.g., elderly, disabilites), as well as societal impacts of technology.
+<br><br>
 <b>Juan Manuel González Calleros</b><br><br>
 <b>Josefina Guerrero García</b><br><br>
