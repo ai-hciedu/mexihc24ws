@@ -9,7 +9,7 @@ Join us for the 1st Responsible AI in HCI Education workshop this year at **<a h
 <ul>- <b>Venue:</b> In-person (Saltillo, Coahuila, Mexico)</ul>
 <ul>- <b>Workshop date:</b><i>*To be determined*</i></ul>
 <ul>- <b>Workshop duration:</b> 4 hours</ul>
-<ul>- <b>Submission deadline:</b> <s>August 9th, 2024</s> August 30rd, 2024, 23:59 AoE</ul>
+<ul>- <b>Submission deadline:</b> <s>August 9th, 2024</s> August 30th, 2024, 23:59 AoE</ul>
 <ul>- <b>Notification:</b> <s>August 23rd, 2024</s> September 6th, 2024</ul>
 <ul>- <b>Camera-ready submission:</b> September 13th, 2024</ul>
 <ul>- <b>Conference dates:</b> November 6-8th, 2024</ul>
