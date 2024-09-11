@@ -1,7 +1,18 @@
 English <a href="https://ai-hciedu.github.io/es/">Español</a><br><br>
-<img src="AIinHCI_ChatGPT4o.png" alt="AI created image presenting a scenario with human-AI and human-human collaboration" width="400" height="400">
 
 # Workshop: Responsible AI in HCI Education
+
+<img src="AIinHCI_ChatGPT4o.png" alt="AI created image presenting a scenario with human-AI and human-human collaboration" width="400" height="400">
+
+## Accepted papers<br>
+Traditional paper format:<br>
+<ul>- López, Alicia; Romero, Alfredo. <i>Desarrollo de un juego serio multiplataforma para repasar contenido por medio de ejercicios a través de un sistema de evaluación de Inteligencia Artificial</i></ul>
+<ul>- Medina Nieto, María Auxilio; Rodríguez Huesca, Rebeca; Pérez Conde, Gudelia Pilar; Sánchez Esgua, Gabriela, Barrera Rojas, José Julián. <i>Definiciones, herramientas y aplicaciones de IA generativa</i></ul>
+<ul>- Prietch, Soraia S.; Aguilar-González, Georgina; Cordero-Cid, Luz Adriana; Flores-Hernández, María Luisa; Guevara-Cano, Cristhian Daniel; Gutiérrez-Flores, Jeshu; Reyes-Peña, Cecilia; Rojas-Rojas, Diego Gerardo; Ruiz-Vivanco, Guadalupe; Sabines-Córdova, Jaime; Tovar-Vidal, Mireya; González-Calleros, Juan Manuel; Guerrero-García, Josefina. <i>Proceso interdisciplinario de codiseño instruccional de planes de clases para la promoción del uso de la IA de manera responsable</i></ul><br>
+
+Works using an innovative format:<br>
+<ul>- García-Macías, J. Antonio; Martínez, Ana I.; Caro, Karina ; Martínez, Evelio. <i>Llamado a Colaboración - Ética aplicada a las tecnologías de la información</i></ul>
+<ul>- Prietch, Soraia S.; Cornejo, Raymundo. <i>Diagnóstico de la ética en la investigación en las ciencias de la computación en México</i></ul>
 
 ## Outline<br> 
 Join us for the 1st Responsible AI in HCI Education workshop this year at **<a href="https://www.mexihc.org/2024/en">10th Mexican International Conference on Human-Computer Interaction (MexIHC 2024)</a>**: 
