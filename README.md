@@ -8,11 +8,23 @@ English <a href="https://ai-hciedu.github.io/es/">Español</a><br><br>
 Traditional paper format:<br>
 <ul>- López, Alicia; Romero, Alfredo. <i>Desarrollo de un juego serio multiplataforma para repasar contenido por medio de ejercicios a través de un sistema de evaluación de Inteligencia Artificial</i></ul>
 <ul>- Medina Nieto, María Auxilio; Rodríguez Huesca, Rebeca; Pérez Conde, Gudelia Pilar; Sánchez Esgua, Gabriela, Barrera Rojas, José Julián. <i>Definiciones, herramientas y aplicaciones de IA generativa</i></ul>
-<ul>- Prietch, Soraia S.; Aguilar-González, Georgina; Cordero-Cid, Luz Adriana; Flores-Hernández, María Luisa; Guevara-Cano, Cristhian Daniel; Gutiérrez-Flores, Jeshu; Reyes-Peña, Cecilia; Rojas-Rojas, Diego Gerardo; Ruiz-Vivanco, Guadalupe; Sabines-Córdova, Jaime; Tovar-Vidal, Mireya; González-Calleros, Juan Manuel; Guerrero-García, Josefina. <i>Proceso interdisciplinario de codiseño instruccional de planes de clases para la promoción del uso de la IA de manera responsable</i></ul><br>
+<ul>- Prietch, Soraia S.; Aguilar-González, Georgina; Cordero-Cid, Luz Adriana; Flores-Hernández, María Luisa; Guevara-Cano, Cristhian Daniel; Gutiérrez-Flores, Jeshu; Reyes-Peña, Cecilia; Rojas-Rojas, Diego Gerardo; Ruiz-Vivanco, Guadalupe; Sabines-Córdova, Jaime; Tovar-Vidal, Mireya; González-Calleros, Juan Manuel; Guerrero-García, Josefina. <i>Proceso interdisciplinario de codiseño instruccional de planes de clases para la promoción del uso de la IA de manera responsable</i></ul>
+<ul>- Olmos-Guzmán, Rafael;  Gómez-Justo, Keila; Hernández-Paxtian, Zulma Janet; Peralta-Calvo, María del Rosario; Santibáñez-Camarillo, Carlos Manuel. <i>Financiaditos Kids</i></ul><br>
 
 Works using an innovative format:<br>
 <ul>- García-Macías, J. Antonio; Martínez, Ana I.; Caro, Karina ; Martínez, Evelio. <i>Llamado a Colaboración - Ética aplicada a las tecnologías de la información</i></ul>
 <ul>- Prietch, Soraia S.; Cornejo, Raymundo. <i>Diagnóstico de la ética en la investigación en las ciencias de la computación en México</i></ul>
+<ul>- Lopez-Hurtado, Isabel. <i>Integrating HCI into AI Education</i></ul>
+
+## Program<br> 
+(~15 min) Welcome and presentation of the participants and the workshop<br>
+(~60 min) Invited keynote speaker: Isabel Lopez Hurtado, PhD., “Integrating HCI into AI Education”<br>
+(~60 min) Presentations of accepted papers<br>
+(~30 min) Coffee-break<br>
+(~30 min) Questions, comments, suggestions and discussion around the papers previously presented<br>
+(~50 min) (Open) presentation and discussion about technologies, strategies, references, etc. on the use of responsible AI in HCI education<br>
+(~40 min) Instructional codiseño of HCI class plans with AI tools<br>
+(~5 min) Closing
 
 ## Outline<br> 
 Join us for the 1st Responsible AI in HCI Education workshop this year at **<a href="https://www.mexihc.org/2024/en">10th Mexican International Conference on Human-Computer Interaction (MexIHC 2024)</a>**: 
